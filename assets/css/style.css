@@ -555,10 +555,20 @@ main {
 .service-item {
   position: relative;
   background: var(--border-gradient-onyx);
-  padding: 20px;
+  padding: 25px;
   border-radius: 14px;
   box-shadow: var(--shadow-2);
   z-index: 1;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 18px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.service-item:hover {
+  transform: translateY(-5px);
+  box-shadow: var(--shadow-3);
 }
 
 .service-item::before {
@@ -571,19 +581,30 @@ main {
 }
 
 .service-icon-box {
-  margin-bottom: 10px;
+  flex-shrink: 0;
+  width: 48px;
+  height: 48px;
+  background: var(--bg-gradient-onyx);
+  border-radius: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: var(--orange-yellow-crayola);
+  box-shadow: var(--shadow-1);
 }
 
-.service-icon-box img {
-  margin: auto;
+.service-icon-box ion-icon {
+  font-size: 28px;
+  --ionicon-stroke-width: 32px;
 }
 
 .service-content-box {
-  text-align: center;
+  text-align: left;
 }
 
 .service-item-title {
-  margin-bottom: 7px;
+  margin-bottom: 5px;
+  font-weight: var(--fw-600);
 }
 
 .service-item-text {
@@ -1841,7 +1862,10 @@ textarea.form-input::-webkit-resizer {
     color: var(--orange-yellow-crayola);
   }
 
-  /* portfolio and blog grid */
+  .service-list {
+    grid-template-columns: 1fr 1fr;
+    gap: 20px 25px;
+  }
 
   .project-list,
   .blog-posts-list {

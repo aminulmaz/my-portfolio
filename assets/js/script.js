@@ -152,7 +152,7 @@ form.addEventListener("submit", function (e) {
   const email = form.querySelector("input[name='email']").value.trim();
   const message = form.querySelector("textarea[name='message']").value.trim();
 
-  const mailToLink = `mailto:sr.harishsrinivas@gmail.com?subject=Message from ${encodeURIComponent(
+  const mailToLink = `mailto:aminulmaz.aus@gmail.com?subject=Message from ${encodeURIComponent(
     name
   )}&body=${encodeURIComponent(
     message + "\n\nFrom: " + name + " (" + email + ")"
@@ -183,7 +183,7 @@ for (let i = 0; i < navigationLinks.length; i++) {
 
 async function fetchMediumFeed() {
   const proxy = "https://api.allorigins.win/get?url=";
-  const feedUrl = "https://medium.com/feed/@sr.harishsrinivas";
+  const feedUrl = "https://medium.com/feed/@aminulmaz";
   const finalUrl = proxy + encodeURIComponent(feedUrl);
 
   try {
