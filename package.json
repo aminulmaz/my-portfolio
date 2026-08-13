@@ -1,0 +1,21 @@
+{
+  "name": "aminul-portfolio",
+  "version": "1.0.0",
+  "description": "Aminul — Personal Digital Portfolio & Creative Archive",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve .",
+    "serve": "npx serve ."
+  },
+  "keywords": [
+    "portfolio",
+    "aminul",
+    "developer",
+    "law-scholar",
+    "nextjs",
+    "flutter"
+  ],
+  "author": "Aminul",
+  "license": "MIT"
+}

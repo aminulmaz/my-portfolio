@@ -1,125 +1,25 @@
-Personal Portfolio
+Aminul — Personal Digital Portfolio & Creative Archive
 
-# sidebar
+# Masthead
+Name: Aminul
+Role: Digital Builder · Criminal & Constitutional Law Scholar · Tech Founder
+Base: Silchar, Assam, India (24.837° N, 92.716° E)
+Affiliation: Assam University (LLM Scholar)
+Email: aminulmaz.aus@gmail.com
+GitHub: https://github.com/aminulmaz
+LinkedIn: https://linkedin.com/in/aminulmaz
 
-alt = Harish Srinivas SR
-Harish Srinivas SR
-Software Developer
+# Sections
+1. Masthead & Navigation
+2. Currently Building (Active R&D)
+3. Selected Work (Case Studies: TicketXorai, Dr. APSC, CIVIS, NYF Cricket Portal)
+4. Project Archive & Catalog (Filterable repository of production & institutional platforms)
+5. Creative Lab (ZenBuddy, Constitutional Logic Parser, Hostel Allocation Solver)
+6. Biographical Dossier (Scholar Profile, Law × Systems thesis, Timeline, Technical Inventory)
+7. Writing & Publications (Medium Articles & Essays)
+8. Transmission / Contact Desk
 
-Show Contacts
-
-Email
-sr.harishsrinivas@gmail.com
-
-linkedin
-https://www.linkedin.com/in/harishsrinivas-sr/
-
-Phone
-+91 8939195387
-
-Birthday
-Dec 7, 2002
-
-Location
-Chennai
-
-# navbar
-
-About
-Resume
-Portfolio
-Blog
-Contact
-
-# about
-
-About me
-Driven software developer with hands-on experience in Flutter, Supabase, and full-stack development, seeking a challenging role in a forward-thinking team. Eager to apply my skills in building scalable, real-time applications and contribute to impactful product development while continuing to grow as a full-stack engineer.
-
-I create scalable, intuitive apps and websites that bring ideas to life with creativity and precision. My focus is on delivering seamless user experiences that engage audiences and elevate brands. Passionate about turning complex problems into elegant, impactful solutions.
-
-## service
-
-What i'm doing
-
-android
-Mobile App Development
-Building cross-platform mobile apps using Flutter & Supabase with real-time data, push notifications, and modern UI/UX.
-
-web
-Full Stack Development
-End-to-end web development with React, Node.js, Express, and PostgreSQL. REST APIs and scalable app architecture.
-
-design
-UI/UX & Prototyping
-Designing intuitive interfaces and flows using Figma. Rapid prototyping with Tailwind CSS for responsive web apps.
-
-cloud
-Cloud & Dev Tools
-Working with Supabase, Firebase, Git, Play Console, and Postman to deliver, deploy, and debug apps efficiently.
-
-
-# resume
-
-Resume
-
-Education
-
-S.A Engineering College, Poonamalle — B.E CSE
-2020 — 2024
-Engineering  9.25 CGPA
-
-New Century Mat Hr Sec School, Chennai — HSC
-2020 — 2019
-State Board  74.4 %
-
-New Century Mat Hr Sec School, Chennai — SSLC
-2017 — 2018
-State Board  94.4 %
-
-Experience
-
-Sun Teknolozy – Software Engineer ( 1+ Year Experience )
-2024 — Present
-As a core member of the MIA team, fully developed the mobile version of the cross-platform industrial monitoring app using Flutter & Supabase, delivering real-time data tracking, interactive graphs, reporting, and push notifications, and deployed it to the PlayStore following comprehensive security audits.
-
-My skills
-
-Flutter, Firebase, Figma 
-React, Tailwind CSS 
-Node js, REST api, Express 
-SQL, PostgreSQL, Supabase 
-Problem Solving, DSA 
-Git, Postman, PlayConsole 
-
-
-# portfolio
-
-Portfolio
-
-All
-Web design
-Applications
-Web development
-
-#latest projects
-1. Hivefy (Mobile & Web): A FOSS music ecosystem featuring a native Flutter Android app and a Next.js web evolution. Spotify-inspired, ad-free, and offline-ready.
-   - Web Demo: https://hivefyweb.vercel.app
-   - Android APK: https://sourceforge.net/projects/hivefy/
-   - Repos: https://github.com/Harish-Srinivas-07/hivefy (Flutter) & https://github.com/Harish-Srinivas-07/hivefyweb (Next.js)
-
-# Blog
-http://medium.com/@sr.harishsrinivas
-https://www.linkedin.com/in/harishsrinivas-sr/
-
-# contact
-
-Contact
-
-Contact Form
-
-Full name
-Email address
-Your Message
-
-Send Message
+# Core Stack
+- Next.js, React, Flutter, Dart, TypeScript, JavaScript
+- PostgreSQL, Supabase, Firebase, SQLite, Express.js
+- Git, GitHub, Postman, Play Console, Figma, Vercel

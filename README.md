@@ -1,24 +1,36 @@
-# Harish Srinivas SR — Personal Portfolio
+# Aminul — Personal Portfolio & Creative Digital Archive
 
-> ✨ Explore my full portfolio and blog posts on [harishsrinivas.netlify.app](https://harishsrinivas.netlify.app)
+> **LLM Scholar in Criminal & Constitutional Law (Assam University)** × **Full-Stack Systems Architect**
 
-<img width="2134" height="1176" alt="image" src="https://github.com/user-attachments/assets/3245cebd-f88b-42d9-a4ed-d8bce453c755" />
+A bespoke, editorial, tactile digital environment and personal archive showcasing production web platforms, high-concurrency event ticketing systems, offline-first desktop tools, and legal informatics.
 
+---
 
+## 🏛️ Architecture & Sections
 
-## 🧾 Sections
+1. **Masthead & Editorial Nav** — Sticky tactile navigation with live Silchar coordinates, operational status, and dual-theme switcher (Studio Ink ↔ Archival Paper).
+2. **Hero Composition** — Typographic editorial statement and quick-access scholar dossier.
+3. **Currently Building (Active R&D)** — Live telemetry feed of active SaaS, desktop, and OS projects.
+4. **Featured Work (Artifact Showcase)** — In-depth production case studies (*TicketXorai*, *Dr. APSC*, *CIVIS*, *NYF Cricket Portal*).
+5. **Project Archive & Catalog** — Searchable and filterable repository of full-stack platforms, institutional ERPs, and desktop suites.
+6. **Creative Lab & Experiments** — Sandbox of specialized prototypes (*ZenBuddy*, *Constitutional State Machine Parser*, *Quota Allocation Solvers*).
+7. **Biographical Dossier & Profile** — Extended essay exploring the intersection of legal logic and system architecture, complete milestone timeline, and curated technical taxonomy.
+8. **Writing & Publications** — Curated articles on legal tech and software engineering.
+9. **Dispatch Desk & Contact** — Direct inquiry channels and validated dispatch form.
 
-- `About`  
-- `Resume`  
-- `Portfolio`  
-- `Blog` → [Read on Medium](http://medium.com/@sr.harishsrinivas)  
-- `Contact` → [Connect on LinkedIn](https://www.linkedin.com/in/harishsrinivas-sr/)  
+---
 
+## 🛠️ Technology Stack
 
-## 📌 About Me
+- **Core**: Pure Semantic HTML5, Vanilla JavaScript (ESNext), and Modern CSS3 (Custom Design Tokens)
+- **Typography**: Cinzel, Plus Jakarta Sans, JetBrains Mono
+- **Deployment**: Static CDN Hosting / Vercel (`vercel.json`)
 
-I create scalable, intuitive apps 🧩 and websites 🌐 that bring ideas to life with creativity 🎨 and precision.  
-My focus is on delivering seamless user experiences 🚀 that engage audiences and elevate brands.  
-Passionate about turning complex problems 🤯 into elegant, impactful solutions ✅.
+---
 
-👉 Visit: [harishsrinivas.netlify.app](https://harishsrinivas.netlify.app)
+## 📬 Connect
+
+- **Email**: [aminulmaz.aus@gmail.com](mailto:aminulmaz.aus@gmail.com)
+- **GitHub**: [github.com/aminulmaz](https://github.com/aminulmaz)
+- **LinkedIn**: [linkedin.com/in/aminulmaz](https://linkedin.com/in/aminulmaz)
+- **Location**: Silchar, Assam, India
